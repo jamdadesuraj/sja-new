@@ -1,0 +1,392 @@
+/* facts  Responsive */
+@media (min-width: 1400px) {
+}
+@media (max-width: 1399px) {
+}
+@media (max-width: 1199px) {
+}
+@media (max-width: 991px) {
+}
+@media (max-width: 767px) {
+  .facts-section h2 {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 570px) {
+  .facts-section h2 {
+    font-size: 20px;
+  }
+  .facts-section {
+    padding-top: 15px;
+  }
+}
+@media (max-width: 560px) {
+  .facts-section h2 {
+    font-size: 20px;
+  }
+  .facts-section {
+    padding-top: 15px;
+  }
+}
+@media (max-width: 540px) {
+  .facts-section h2 {
+    font-size: 20px;
+  }
+  .facts-section {
+    padding-top: 15px;
+  }
+}
+@media (max-width: 520px) {
+  .facts-section h2 {
+    font-size: 20px;
+  }
+  .facts-section {
+    padding-top: 15px;
+  }
+}
+
+@media (max-width: 500px) {
+  .facts-section h2 {
+    font-size: 20px;
+  }
+  .facts-section {
+    padding-top: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .facts-section h2 {
+    font-size: 20px;
+  }
+  .facts-section {
+    padding-top: 15px;
+  }
+}
+@media (max-width: 460px) {
+  .facts-section h2 {
+    font-size: 20px;
+  }
+  .facts-section {
+    padding-top: 15px;
+  }
+}
+@media (max-width: 440px) {
+  .facts-section h2 {
+    font-size: 20px;
+  }
+  .facts-section {
+    padding-top: 15px;
+  }
+}
+@media (max-width: 420px) {
+  .facts-section h2 {
+    font-size: 20px;
+  }
+  .facts-section {
+    padding-top: 15px;
+  }
+}
+@media (max-width: 400px) {
+  .facts-section h2 {
+    font-size: 20px;
+  }
+  .facts-section {
+    padding-top: 15px;
+  }
+}
+
+@media (max-width: 380px) {
+  .facts-section h2 {
+    font-size: 20px;
+  }
+  .facts-section {
+    padding-top: 15px;
+  }
+}
+
+@media (max-width: 360px) {
+  .facts-section h2 {
+    font-size: 20px;
+  }
+  .facts-section {
+    padding-top: 15px;
+  }
+}
+@media (max-width: 340px) {
+  .facts-section h2 {
+    font-size: 20px;
+  }
+  .facts-section {
+    padding-top: 15px;
+  }
+}
+
+/***work responsive  ***/
+@media (min-width: 1400px) {
+}
+@media (max-width: 1399px) {
+}
+@media (max-width: 1199px) {
+}
+@media (max-width: 991px) {
+}
+
+@media (max-width: 767px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+
+@media (max-width: 570px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+@media (max-width: 560px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+@media (max-width: 540px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+@media (max-width: 520px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+@media (max-width: 460px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+@media (max-width: 440px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+@media (max-width: 420px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+@media (max-width: 400px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+
+@media (max-width: 380px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+
+@media (max-width: 360px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+@media (max-width: 340px) {
+  .bold {
+    display: none;
+  }
+  .intro-heading h2 {
+    font-size: 25px;
+    margin-top: -2rem;
+  }
+}
+/***stpperform responsive  ***/
+@media (min-width: 1400px) {
+}
+@media (max-width: 1399px) {
+}
+@media (max-width: 1199px) {
+}
+@media (max-width: 991px) {
+}
+
+@media (max-width: 767px) {
+  .billing-form::before {
+    display: none;
+  }
+  .billing-form::after {
+    display: none;
+  }
+}
+
+@media (max-width: 570px) {
+  .billing-form::before {
+    display: none;
+  }
+  .billing-form::after {
+    display: none;
+  }
+}
+@media (max-width: 560px) {
+  .billing-form::before {
+    display: none;
+  }
+  .billing-form::after {
+    display: none;
+  }
+}
+@media (max-width: 540px) {
+  .billing-form::before {
+    display: none;
+  }
+  .billing-form::after {
+    display: none;
+  }
+}
+@media (max-width: 520px) {
+  .billing-form::before {
+    display: none;
+  }
+  .billing-form::after {
+    display: none;
+  }
+}
+
+@media (max-width: 500px) {
+  .billing-form::before {
+    display: none;
+  }
+  .billing-form::after {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .billing-form::before {
+    display: none;
+  }
+  .billing-form::after {
+    display: none;
+  }
+}
+@media (max-width: 460px) {
+  .billing-form::before {
+    display: none;
+  }
+  .billing-form::after {
+    display: none;
+  }
+}
+@media (max-width: 440px) {
+  .billing-form::before {
+    display: none;
+  }
+  .billing-form::after {
+    display: none;
+  }
+}
+@media (max-width: 420px) {
+  .billing-form::before {
+    display: none;
+  }
+  .billing-form::after {
+    display: none;
+  }
+}
+@media (max-width: 400px) {
+  .billing-form::before {
+    display: none;
+  }
+  .billing-form::after {
+    display: none;
+  }
+}
+
+@media (max-width: 380px) {
+  .billing-form::before {
+    display: none;
+  }
+  .billing-form::after {
+    display: none;
+  }
+}
+
+@media (max-width: 360px) {
+  .billing-form::before {
+    display: none;
+  }
+  .billing-form::after {
+    display: none;
+  }
+}
+@media (max-width: 340px) {
+  .billing-form::before {
+    display: none;
+  }
+  .billing-form::after {
+    display: none;
+  }
+}
